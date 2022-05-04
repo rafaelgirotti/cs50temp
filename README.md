@@ -1,3 +1,3 @@
 # cs50temp
 
-My CS50 codes for the problem sets. This is my first repo, I'm just trying it out.
+My codes for the CS50s problem sets. This is my first repo, I'm just trying it out.
