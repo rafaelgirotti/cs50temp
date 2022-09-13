@@ -1,3 +1,3 @@
-# cs50temp
+# My CS50x
 
 My codes for the CS50x problem sets. This is my first repository on GitHub, supposed to be only used as test.
